@@ -1,5 +1,5 @@
 <?php
-$ball = 'purple';  
+$ball = 'red';
 // coba ubah: red, yellow, blue, green, purple
 
 if ($ball == 'red') {
